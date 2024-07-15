@@ -20,8 +20,8 @@ export default function Home() {
         </p>
         <div>
           <p>
-            <a className="underline" href="mailto:mail@hohoholding.no">
-              mail@hohoholding.no
+            <a className="underline" href="mailto:kristofer@selbekk.io">
+              kristofer@selbekk.io
             </a>
           </p>
           <p className="mb-4">

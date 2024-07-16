@@ -13,7 +13,7 @@ export default function Home() {
           Org. nr{" "}
           <a
             className="underline"
-            href="https://www.proff.no/bransjes%C3%B8k?q=Ho%20Ho%20Holding%20AS"
+            href="https://www.proff.no/selskap/ho-ho-holding-as/oslo/-/IFFTRW30000"
           >
             933 576 051
           </a>
